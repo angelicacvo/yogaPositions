@@ -78,6 +78,6 @@ main {
 @media (min-width: 481px) and (max-width: 768px) {
   .card-container {
     grid-auto-rows: auto;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 }
